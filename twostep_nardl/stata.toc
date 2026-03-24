@@ -2,4 +2,4 @@
 1
 2
 3
-p xtsurmg Fourier Seemingly Unrelated Regression Mean Group Estimator Use xtsurmg With STATA 19
+p twostep_nardl Two-step estimation of the Nonlinear Autoregressive Distributed Lag (NARDL) model with comprehensive post-estimation analysis Use twostep_nardl With STATA 19
