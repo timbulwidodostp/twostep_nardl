@@ -1,6 +1,8 @@
 # twostep_nardl
 Two-step estimation of the Nonlinear Autoregressive Distributed Lag (NARDL) model with comprehensive post-estimation analysis Use twostep_nardl With STATA 19
 
+https://www.youtube.com/watch?v=hBIu2HCY_P8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
